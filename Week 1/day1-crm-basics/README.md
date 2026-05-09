@@ -53,23 +53,10 @@ Lead → Contact → Opportunity → Customer
 
 # Real-Time Example (College Admission)
 
-| Salesforce Term | Example                         |
-| --------------- | ------------------------------- |
-| Account         | College                         |
-| Contact         | Student                         |
-| Lead            | Student interested in admission |
-| Opportunity     | Admission process               |
-
----
-
-# Trailhead Modules Completed
-
-* Salesforce Values: Quick Look
-* Salesforce Developer: Quick Look
-* Salesforce CRM
-* Trailhead Playground Management
-
----
+* Account  - College
+* Contact  - Student
+* Lead     - Student interested in admission
+* opportunity - Admission process
 
 # What I Learned
 
