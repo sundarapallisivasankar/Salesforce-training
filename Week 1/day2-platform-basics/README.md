@@ -77,17 +77,6 @@ College Management App
 - Students check attendance and marks.
 - Faculty update records.
 - Admin manages data.
-
----
-
-# CRM Concepts in Salesforce
-
-| CRM Concept | Salesforce Object |
-|---|---|
-| Customer Company | Account |
-| Customer Person | Contact |
-| Sales Deal | Opportunity |
-
 ---
 
 # Multi-Tenant Architecture
